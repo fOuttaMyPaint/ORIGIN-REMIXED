@@ -1,3 +1,27 @@
 [
-
+  {
+    "name": "theme_info",
+    "theme_name": "Your Theme Name",
+    "theme_version": "1.0.0",
+    "theme_author": "Your Name or Company",
+    "theme_support_email": "support@example.com",
+    "theme_documentation_url": "https:\/\/example.com\/documentation"
+  },
+  {
+    "name": "Colors",
+    "settings": [
+      {
+        "type": "color",
+        "id": "primary_color",
+        "label": "Primary Color",
+        "default": "#000000"
+      },
+      {
+        "type": "color",
+        "id": "secondary_color",
+        "label": "Secondary Color",
+        "default": "#FFFFFF"
+      }
+    ]
+  }
 ]
