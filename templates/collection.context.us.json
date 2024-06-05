@@ -1,14 +1,7 @@
 {
-  "sections": {
-    "header": {
-      "type": "header"
-    },
-    "collection-banner": {
-      "type": "collection-banner"
-    },
-    "footer": {
-      "type": "footer"
-    }
+  "parent": "collection.json",
+  "context": {
+    "market": "us"
   },
-  "order": ["header", "collection-banner", "footer"]
+  "sections": {}
 }
