@@ -1,1 +1,14 @@
-{"parent":"collection.json","context":{"market":"us"},"sections":{}}
+{
+  "sections": {
+    "header": {
+      "type": "header"
+    },
+    "collection-banner": {
+      "type": "collection-banner"
+    },
+    "footer": {
+      "type": "footer"
+    }
+  },
+  "order": ["header", "collection-banner", "footer"]
+}
