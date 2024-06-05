@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terminal</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #000;
+      color: #0f0;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    .terminal-container {
+      text-align: center;
+    }
+    .terminal-title {
+      font-size: 4rem;
+    }
+    .enter-button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 2rem;
+      color: #0f0;
+      background-color: #000;
+      border: 2px solid #0f0;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .enter-button:hover {
+      background-color: #0f0;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal-container">
+    <div class="terminal-title">TERMINAL</div>
+    <button id="enter-button" class="enter-button">Enter</button>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+  <script>
+    document.getElementById('enter-button').addEventListener('click', function() {
+      gsap.to('.terminal-container', { opacity: 0, duration: 1, onComplete: function() {
+        window.location.href = '/pages/terminal2';
+      }});
+    });
+  </script>
+</body>
+</html>
