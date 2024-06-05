@@ -1,1 +1,9 @@
-{"parent":"index.json","context":{"market":"us"},"sections":{"custom_liquid_FmfRjm":{"settings":{"padding_bottom":44},"blocks":{}},"featured_collection_Fp7JYL":{"settings":{"products_to_show":12,"columns_desktop":4,"enable_desktop_slider":false},"blocks":{}},"slideshow_LVDGbK":{"settings":{"layout":"grid","slider_visual":"counter","accessibility_info":""},"blocks":{"slide_WmRBH9":{"settings":{"show_text_box":false,"text_alignment":"center"}},"slide_t346Eh":{"settings":{"image":"shopify:\/\/shop_images\/1423168551079.jpg","heading_size":"h0","subheading":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":80,"color_scheme":"scheme-3","heading":"<strong>OFFICE | GAMING<\/strong>"}},"slide_ckcFE8":{"settings":{"heading_size":"h0","button_style_secondary":true,"box_align":"middle-center","text_alignment":"center","image_overlay_opacity":80,"color_scheme":"scheme-3","text_alignment_mobile":"center","subheading":"","show_text_box":false}},"slide_miJ4kP":{"settings":{"image":"shopify:\/\/shop_images\/0c4cfbb8-5959-4ca0-a6d4-39572253a22a.jpg","button_style_secondary":true,"show_text_box":false,"image_overlay_opacity":90,"heading_size":"h0","subheading":"","color_scheme":"scheme-3","box_align":"middle-center"}}}}}}
+{
+  "sections": {
+    "main": {
+      "type": "main",
+      "settings": {}
+    }
+  },
+  "order": ["main"]
+}
