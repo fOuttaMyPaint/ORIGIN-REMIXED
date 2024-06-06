@@ -141,9 +141,9 @@
           "type": "button",
           "settings": {
             "button_label": "HOT SUMMER PRODUCTS",
-            "button_link": "https:\/\/www.tiktok.com\/@tmhs.shop?is_from_webapp=1&sender_device=pc",
+            "button_link": "shopify:\/\/collections\/video-game-stuffs-and-chairs-and-mice-and-keyboards-high-quality-cool",
             "button_style_secondary": true,
-            "button_label_2": "BEAT THE HEAT INSIDE",
+            "button_label_2": "",
             "button_link_2": "shopify:\/\/collections\/frontpage",
             "button_style_secondary_2": true
           }
