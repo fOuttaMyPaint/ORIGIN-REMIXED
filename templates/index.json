@@ -1,1 +1,304 @@
-{"sections":{"slideshow_LVDGbK":{"type":"slideshow","blocks":{"slide_WmRBH9":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/homer_tenor.gif","heading":"<strong>|<\/strong><em><strong> <\/strong><\/em><strong>Our Collections<\/strong><em><strong> <\/strong><\/em><strong>|<\/strong>","heading_size":"h0","subheading":"<strong>|Start Slideshow|<\/strong>","button_label":"","link":"shopify:\/\/collections","button_style_secondary":false,"box_align":"middle-left","show_text_box":false,"text_alignment":"center","image_overlay_opacity":60,"color_scheme":"scheme-3","text_alignment_mobile":"left"}},"slide_hEEqHf":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Zooted_inc_towly.png","heading":"<strong>ORIGINAL BRANDS  CUSTOM MERCH<\/strong>","heading_size":"h0","subheading":"<strong>Cook up custom brands | Explore ours<\/strong>","button_label":"See Brands","link":"shopify:\/\/blogs\/trends","button_style_secondary":true,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":70,"color_scheme":"scheme-3","text_alignment_mobile":"center"}},"slide_ckcFE8":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/shoulder_bag.jpg","heading":"<strong>GIFTS FOR HIM<\/strong>","heading_size":"h0","subheading":"","button_label":"View Collection","link":"shopify:\/\/collections\/gifts-for-him","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":70,"color_scheme":"scheme-3","text_alignment_mobile":"center"}},"slide_t346Eh":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/b106ac70-4368-40c7-871a-e7055cd8f848.jpg","heading":"<strong>HOME & OFFICE<\/strong>","heading_size":"h0","subheading":"","button_label":"View Collection","link":"shopify:\/\/collections\/gaming-accessories","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":70,"color_scheme":"scheme-3","text_alignment_mobile":"center"}},"slide_miJ4kP":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/woman_wrapping_stock_image.jpg","heading":"<strong>GIFTS FOR HER<\/strong>","heading_size":"h0","subheading":"","button_label":"See Products","link":"shopify:\/\/collections\/gifts-for-her","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":70,"color_scheme":"scheme-3","text_alignment_mobile":"center"}}},"block_order":["slide_WmRBH9","slide_hEEqHf","slide_ckcFE8","slide_t346Eh","slide_miJ4kP"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"numbers","auto_rotate":true,"change_slides_speed":5,"image_behavior":"ambient","show_text_below":true,"accessibility_info":"Slideshow displaying categories"}},"custom_liquid_FmfRjm":{"type":"custom-liquid","settings":{"custom_liquid":"<style>\n  .interactive-border {\n    border: 2px solid #4CAF50;\n    border-radius: 10px;\n    padding: 10px;\n    transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;\n    background: linear-gradient(135deg, #f9f9f9, #e0e0e0);\n    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n    max-width: 780px;\n    min-width: 288px;\n    margin: 20px auto;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n  }\n\n  .interactive-border:hover {\n    border-color: #FF5722;\n    transform: scale(1.05);\n    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);\n    background: linear-gradient(135deg, #e0e0e0, #f9f9f9);\n  }\n\n  @media (max-width: 768px) {\n    .interactive-border {\n      max-width: 100%;\n      padding: 5px;\n    }\n  }\n\n  .tiktok-embed section {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    font-family: 'Arial', sans-serif;\n    color: #333;\n  }\n\n  .tiktok-embed a {\n    color: #4CAF50;\n    text-decoration: none;\n    font-weight: bold;\n    margin-top: 10px;\n    transition: color 0.3s ease;\n  }\n\n  .tiktok-embed a:hover {\n    color: #FF5722;\n  }\n<\/style>\n<blockquote class=\"tiktok-embed interactive-border\" cite=\"https:\/\/www.tiktok.com\/@tmhs.shop\" data-unique-id=\"tmhs.shop\" data-embed-type=\"creator\">\n  <section>\n    <a target=\"_blank\" href=\"https:\/\/www.tiktok.com\/@tmhs.shop?refer=creator_embed\">@tmhs.shop<\/a>\n  <\/section>\n<\/blockquote>\n<script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>","color_scheme":"scheme-5","padding_top":8,"padding_bottom":8}},"rich_text_9LCNyK":{"type":"rich-text","blocks":{"heading_qmeLFc":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_rCXFXD":{"type":"text","settings":{"text":""}},"button_JKqj6X":{"type":"button","settings":{"button_label":"Click To See Store's TikTok Page","button_link":"https:\/\/www.tiktok.com\/@tmhs.shop?is_from_webapp=1&sender_device=pc","button_style_secondary":true,"button_label_2":"TOP PRODUCTS HERE","button_link_2":"shopify:\/\/collections\/frontpage","button_style_secondary_2":true}}},"block_order":["heading_qmeLFc","text_rCXFXD","button_JKqj6X"],"custom_css":[".interactive-border {border: 2px solid #4caf50; border-radius: 10px; padding: 10px; transition: transform 0.3s; max-width: 780px; margin: 20px auto; display: flex; justify-content: center; align-items: center;}",".interactive-border:hover {transform: scale(1.05);}",".tiktok-embed a {color: #4caf50; text-decoration: none; font-weight: bold; transition: color 0.3s;}",".tiktok-embed a:hover {color: #ff5722;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-2","full_width":true,"padding_top":0,"padding_bottom":40}},"custom_liquid_Nwzy3n":{"type":"custom-liquid","settings":{"custom_liquid":"<!-- CSS for Enhanced Interactive Border with Typing Animation, Modern Font, and Soft Glow -->\n<style>\n    @import url('https:\/\/fonts.googleapis.com\/css2?family=Montserrat:wght@700&display=swap');\n\n    @keyframes typing {\n        from { width: 0; }\n        to { width: 100%; }\n    }\n\n    @keyframes blink-caret {\n        from, to { border-color: transparent; }\n        50% { border-color: black; }\n    }\n\n    .center-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%; \/* Adjust height as needed *\/\n        width: 100%; \/* Full width *\/\n    }\n\n    .custom-slogan {\n        font-family: 'Montserrat', sans-serif; \/* Modern font *\/\n        font-size: 70px; \/* Increase the font size *\/\n        font-weight: bold; \/* Make the font bold *\/\n        text-align: center;\n        color: #000000; \/* Text color *\/\n        white-space: nowrap;\n        overflow: hidden;\n        border-right: .2em solid black; \/* Thicker caret *\/\n        animation: typing 5s steps(40, end) infinite, blink-caret .75s step-end infinite; \/* Typing and blink animation *\/\n        display: inline-block;\n        padding: 20px; \/* Add padding for spacing *\/\n        background: #ffffff; \/* Background color *\/\n        border:3px solid #000000; \/* Thicker border *\/\n        border-radius: 10px; \/* Rounded corners *\/\n        box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); \/* Soft glowing effect *\/\n        margin: 0 auto; \/* Center the element horizontally *\/\n    }\n\n    .custom-slogan:hover {\n        color: #FF5733; \/* Change text color on hover *\/\n        border-right: .2em solid #FF5733; \/* Change caret color on hover *\/\n        box-shadow: 0 0 30px rgba(255, 87, 51, 0.7); \/* Enhanced glowing effect on hover *\/\n    }\n<\/style>\n\n<div class=\"center-container\">\n    <div class=\"custom-slogan\">\n        TMHS DIGITAL\n    <\/div>\n<\/div>","color_scheme":"","padding_top":40,"padding_bottom":52}},"featured_collection_Fp7JYL":{"type":"featured-collection","custom_css":[],"settings":{"title":"Home, Office & Gaming Accessories","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"gaming-accessories","products_to_show":25,"columns_desktop":6,"full_width":true,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"scheme-3","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"standard","columns_mobile":"2","swipe_on_mobile":true,"padding_top":12,"padding_bottom":12}},"custom_liquid_xzLjyg":{"type":"custom-liquid","settings":{"custom_liquid":"<!-- CSS for Enhanced Interactive Border with Typing Animation, Modern Font, and Soft Glow -->\n<style>\n    @import url('https:\/\/fonts.googleapis.com\/css2?family=Montserrat:wght@700&display=swap');\n\n    @keyframes typing {\n        from { width: 0; }\n        to { width: 100%; }\n    }\n\n    @keyframes blink-caret {\n        from, to { border-color: transparent; }\n        50% { border-color: black; }\n    }\n\n    .center-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%; \/* Adjust height as needed *\/\n        width: 100%; \/* Full width *\/\n    }\n\n    .custom-slogan {\n        font-family: 'Montserrat', sans-serif; \/* Modern font *\/\n        font-size: 70px; \/* Increase the font size *\/\n        font-weight: bold; \/* Make the font bold *\/\n        text-align: center;\n        color: #000000; \/* Text color *\/\n        white-space: nowrap;\n        overflow: hidden;\n        border-right: .2em solid black; \/* Thicker caret *\/\n        animation: typing 5s steps(40, end) infinite, blink-caret .75s step-end infinite; \/* Typing and blink animation *\/\n        display: inline-block;\n        padding: 20px; \/* Add padding for spacing *\/\n        background: #ffffff; \/* Background color *\/\n        border:3px solid #000000; \/* Thicker border *\/\n        border-radius: 10px; \/* Rounded corners *\/\n        box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); \/* Soft glowing effect *\/\n        margin: 0 auto; \/* Center the element horizontally *\/\n    }\n\n    .custom-slogan:hover {\n        color: #FF5733; \/* Change text color on hover *\/\n        border-right: .2em solid #FF5733; \/* Change caret color on hover *\/\n        box-shadow: 0 0 30px rgba(255, 87, 51, 0.7); \/* Enhanced glowing effect on hover *\/\n    }\n<\/style>\n\n<div class=\"center-container\">\n    <div class=\"custom-slogan\">\n        TMHS DIGITAL\n    <\/div>\n<\/div>","color_scheme":"scheme-3","padding_top":40,"padding_bottom":52}},"featured_collection_WBHUbg":{"type":"featured-collection","disabled":true,"settings":{"title":"<strong>Portable Batteries & Charging Cables<\/strong>","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"charging-accessories","products_to_show":25,"columns_desktop":6,"full_width":true,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"scheme-2","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"bulk","columns_mobile":"2","swipe_on_mobile":true,"padding_top":12,"padding_bottom":12}},"rich_text_NDea3N":{"type":"rich-text","blocks":{"heading_QfKjD9":{"type":"heading","settings":{"heading":"<em><strong>Hi there<\/strong><\/em>","heading_size":"h1"}},"text_VJzE7A":{"type":"text","settings":{"text":"<p>You made it to the bottom of the page | Don't stop here<\/p>"}},"button_CKryhN":{"type":"button","settings":{"button_label":"What are my options here?","button_link":"","button_style_secondary":true,"button_label_2":"NOOOOOOOoOoOooOooOooOoooOooooOooooo","button_link_2":"shopify:\/\/blogs\/trends","button_style_secondary_2":true}}},"block_order":["heading_QfKjD9","text_VJzE7A","button_CKryhN"],"disabled":true,"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-3","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["slideshow_LVDGbK","custom_liquid_FmfRjm","rich_text_9LCNyK","custom_liquid_Nwzy3n","featured_collection_Fp7JYL","custom_liquid_xzLjyg","featured_collection_WBHUbg","rich_text_NDea3N"]}
+{
+  "sections": {
+    "slideshow_LVDGbK": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_WmRBH9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/homer_tenor.gif",
+            "heading": "<strong>|<\/strong><em><strong> <\/strong><\/em><strong>Our Collections<\/strong><em><strong> <\/strong><\/em><strong>|<\/strong>",
+            "heading_size": "h0",
+            "subheading": "<strong>|Start Slideshow|<\/strong>",
+            "button_label": "",
+            "link": "shopify:\/\/collections",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 60,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide_hEEqHf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zooted_inc_towly.png",
+            "heading": "<strong>ORIGINAL BRANDS  CUSTOM MERCH<\/strong>",
+            "heading_size": "h0",
+            "subheading": "<strong>Cook up custom brands | Explore ours<\/strong>",
+            "button_label": "See Brands",
+            "link": "shopify:\/\/blogs\/trends",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 70,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_ckcFE8": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shoulder_bag.jpg",
+            "heading": "<strong>GIFTS FOR HIM<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "View Collection",
+            "link": "shopify:\/\/collections\/gifts-for-him",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 70,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_t346Eh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b106ac70-4368-40c7-871a-e7055cd8f848.jpg",
+            "heading": "<strong>HOME & OFFICE<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "View Collection",
+            "link": "shopify:\/\/collections\/gaming-accessories",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 70,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_miJ4kP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman_wrapping_stock_image.jpg",
+            "heading": "<strong>GIFTS FOR HER<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "See Products",
+            "link": "shopify:\/\/collections\/gifts-for-her",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 70,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_WmRBH9",
+        "slide_hEEqHf",
+        "slide_ckcFE8",
+        "slide_t346Eh",
+        "slide_miJ4kP"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow displaying categories"
+      }
+    },
+    "custom_liquid_FmfRjm": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  .interactive-border {\n    border: 2px solid #4CAF50;\n    border-radius: 10px;\n    padding: 10px;\n    transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;\n    background: linear-gradient(135deg, #f9f9f9, #e0e0e0);\n    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n    max-width: 780px;\n    min-width: 288px;\n    margin: 20px auto;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n  }\n\n  .interactive-border:hover {\n    border-color: #FF5722;\n    transform: scale(1.05);\n    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);\n    background: linear-gradient(135deg, #e0e0e0, #f9f9f9);\n  }\n\n  @media (max-width: 768px) {\n    .interactive-border {\n      max-width: 100%;\n      padding: 5px;\n    }\n  }\n\n  .tiktok-embed section {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    font-family: 'Arial', sans-serif;\n    color: #333;\n  }\n\n  .tiktok-embed a {\n    color: #4CAF50;\n    text-decoration: none;\n    font-weight: bold;\n    margin-top: 10px;\n    transition: color 0.3s ease;\n  }\n\n  .tiktok-embed a:hover {\n    color: #FF5722;\n  }\n<\/style>\n<blockquote class=\"tiktok-embed interactive-border\" cite=\"https:\/\/www.tiktok.com\/@tmhs.shop\" data-unique-id=\"tmhs.shop\" data-embed-type=\"creator\">\n  <section>\n    <a target=\"_blank\" href=\"https:\/\/www.tiktok.com\/@tmhs.shop?refer=creator_embed\">@tmhs.shop<\/a>\n  <\/section>\n<\/blockquote>\n<script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>",
+        "color_scheme": "scheme-5",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_9LCNyK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qmeLFc": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_rCXFXD": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_JKqj6X": {
+          "type": "button",
+          "settings": {
+            "button_label": "HOT SUMMER PRODUCTS",
+            "button_link": "https:\/\/www.tiktok.com\/@tmhs.shop?is_from_webapp=1&sender_device=pc",
+            "button_style_secondary": true,
+            "button_label_2": "BEAT THE HEAT INSIDE",
+            "button_link_2": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_qmeLFc",
+        "text_rCXFXD",
+        "button_JKqj6X"
+      ],
+      "custom_css": [
+        ".interactive-border {border: 2px solid #4caf50; border-radius: 10px; padding: 10px; transition: transform 0.3s; max-width: 780px; margin: 20px auto; display: flex; justify-content: center; align-items: center;}",
+        ".interactive-border:hover {transform: scale(1.05);}",
+        ".tiktok-embed a {color: #4caf50; text-decoration: none; font-weight: bold; transition: color 0.3s;}",
+        ".tiktok-embed a:hover {color: #ff5722;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-4",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "custom_liquid_Nwzy3n": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- CSS for Enhanced Interactive Border with Typing Animation, Modern Font, and Soft Glow -->\n<style>\n    @import url('https:\/\/fonts.googleapis.com\/css2?family=Montserrat:wght@700&display=swap');\n\n    @keyframes typing {\n        from { width: 0; }\n        to { width: 100%; }\n    }\n\n    @keyframes blink-caret {\n        from, to { border-color: transparent; }\n        50% { border-color: black; }\n    }\n\n    .center-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%; \/* Adjust height as needed *\/\n        width: 100%; \/* Full width *\/\n    }\n\n    .custom-slogan {\n        font-family: 'Montserrat', sans-serif; \/* Modern font *\/\n        font-size: 70px; \/* Increase the font size *\/\n        font-weight: bold; \/* Make the font bold *\/\n        text-align: center;\n        color: #000000; \/* Text color *\/\n        white-space: nowrap;\n        overflow: hidden;\n        border-right: .2em solid black; \/* Thicker caret *\/\n        animation: typing 5s steps(40, end) infinite, blink-caret .75s step-end infinite; \/* Typing and blink animation *\/\n        display: inline-block;\n        padding: 20px; \/* Add padding for spacing *\/\n        background: #ffffff; \/* Background color *\/\n        border:3px solid #000000; \/* Thicker border *\/\n        border-radius: 10px; \/* Rounded corners *\/\n        box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); \/* Soft glowing effect *\/\n        margin: 0 auto; \/* Center the element horizontally *\/\n    }\n\n    .custom-slogan:hover {\n        color: #FF5733; \/* Change text color on hover *\/\n        border-right: .2em solid #FF5733; \/* Change caret color on hover *\/\n        box-shadow: 0 0 30px rgba(255, 87, 51, 0.7); \/* Enhanced glowing effect on hover *\/\n    }\n<\/style>\n\n<div class=\"center-container\">\n    <div class=\"custom-slogan\">\n        TMHS DIGITAL\n    <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_Fp7JYL": {
+      "type": "featured-collection",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "Home, Office & Gaming Accessories",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "gaming-accessories",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-3",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "custom_liquid_xzLjyg": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- CSS for Enhanced Interactive Border with Typing Animation, Modern Font, and Soft Glow -->\n<style>\n    @import url('https:\/\/fonts.googleapis.com\/css2?family=Montserrat:wght@700&display=swap');\n\n    @keyframes typing {\n        from { width: 0; }\n        to { width: 100%; }\n    }\n\n    @keyframes blink-caret {\n        from, to { border-color: transparent; }\n        50% { border-color: black; }\n    }\n\n    .center-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%; \/* Adjust height as needed *\/\n        width: 100%; \/* Full width *\/\n    }\n\n    .custom-slogan {\n        font-family: 'Montserrat', sans-serif; \/* Modern font *\/\n        font-size: 70px; \/* Increase the font size *\/\n        font-weight: bold; \/* Make the font bold *\/\n        text-align: center;\n        color: #000000; \/* Text color *\/\n        white-space: nowrap;\n        overflow: hidden;\n        border-right: .2em solid black; \/* Thicker caret *\/\n        animation: typing 5s steps(40, end) infinite, blink-caret .75s step-end infinite; \/* Typing and blink animation *\/\n        display: inline-block;\n        padding: 20px; \/* Add padding for spacing *\/\n        background: #ffffff; \/* Background color *\/\n        border:3px solid #000000; \/* Thicker border *\/\n        border-radius: 10px; \/* Rounded corners *\/\n        box-shadow: 0 0 20px rgba(0, 0, 0, 0.7); \/* Soft glowing effect *\/\n        margin: 0 auto; \/* Center the element horizontally *\/\n    }\n\n    .custom-slogan:hover {\n        color: #FF5733; \/* Change text color on hover *\/\n        border-right: .2em solid #FF5733; \/* Change caret color on hover *\/\n        box-shadow: 0 0 30px rgba(255, 87, 51, 0.7); \/* Enhanced glowing effect on hover *\/\n    }\n<\/style>\n\n<div class=\"center-container\">\n    <div class=\"custom-slogan\">\n        TMHS DIGITAL\n    <\/div>\n<\/div>",
+        "color_scheme": "scheme-3",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_WBHUbg": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "<strong>Portable Batteries & Charging Cables<\/strong>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "charging-accessories",
+        "products_to_show": 25,
+        "columns_desktop": 6,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_NDea3N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QfKjD9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Hi there<\/strong><\/em>",
+            "heading_size": "h1"
+          }
+        },
+        "text_VJzE7A": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You made it to the bottom of the page | Don't stop here<\/p>"
+          }
+        },
+        "button_CKryhN": {
+          "type": "button",
+          "settings": {
+            "button_label": "What are my options here?",
+            "button_link": "",
+            "button_style_secondary": true,
+            "button_label_2": "NOOOOOOOoOoOooOooOooOoooOooooOooooo",
+            "button_link_2": "shopify:\/\/blogs\/trends",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_QfKjD9",
+        "text_VJzE7A",
+        "button_CKryhN"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "slideshow_LVDGbK",
+    "custom_liquid_FmfRjm",
+    "rich_text_9LCNyK",
+    "custom_liquid_Nwzy3n",
+    "featured_collection_Fp7JYL",
+    "custom_liquid_xzLjyg",
+    "featured_collection_WBHUbg",
+    "rich_text_NDea3N"
+  ]
+}
